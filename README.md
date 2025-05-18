@@ -36,7 +36,7 @@ pip install beautifulsoup4 undetected-chromedriver
 
 ```bash
 git clone https://github.com/R4INYIS/trustpilot-scraper/
-cd trustpilot-review-scraper
+cd trustpilot-scraper
 ```
 
 2. **Review the configuration:**
